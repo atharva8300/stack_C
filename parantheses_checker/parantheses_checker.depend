@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595956026 source:d:\c_repos\stacks\parantheses_checker\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
