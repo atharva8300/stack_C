@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596077012 source:d:\c_repos\stacks\infix_to_postfix\main.c
+	<stdio.h>
+	<conio.h>
+
